@@ -16,7 +16,7 @@ public class DiseaseSorter {
 		diseases.add(flu);
 		diseases.add(malaria);
 		diseases.add(cancer);
-
+		
 		/*
 		 * Options for setting the value of "curable": 
 		 * 	1. change the value in the constructor - you can only call a constructor once  
